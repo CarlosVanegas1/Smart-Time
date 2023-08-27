@@ -3,8 +3,8 @@
 #include <NTPClient.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "VANEGAS";
-const char* password = "1006849389";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org");
