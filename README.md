@@ -25,4 +25,4 @@ Este proyecto está bajo la Licencia [Attribution-NonCommercial 4.0 Internationa
 
 ---
 
-**[Carlos S. Vanegas]** - Contacto: [ing.carlos.vanegas1@gmail.com]
+**Carlos S. Vanegas** - Contacto: [ing.carlos.vanegas1@gmail.com]
