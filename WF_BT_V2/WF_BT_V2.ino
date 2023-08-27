@@ -3,8 +3,8 @@
 
 const int MAX_INTENTOS = 5;
 
-const char* ssid = "VANEGAS";
-const char* password = "1006849389";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
 
 BluetoothSerial SerialBT;
 bool isConnectedToWiFi = false;
